@@ -1,0 +1,12 @@
+.idea
+
+# *.csv
+# *.pkl
+# *.gz
+
+*.pyc
+
+# **/config/*
+
+
+

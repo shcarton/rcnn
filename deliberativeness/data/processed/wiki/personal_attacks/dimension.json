@@ -1,0 +1,9 @@
+{
+  "dimension_id": 0,
+  "name": "Personal Attacks",
+  "description": "Presence of personal attacks",
+  "source_url": "https://figshare.com/articles/Wikipedia_Talk_Labels_Personal_Attacks/4054689",
+  "platform_id": 0,
+  "irr": 0.45,
+  "size": 115865
+}

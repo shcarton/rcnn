@@ -1,0 +1,9 @@
+{
+  "platform_id": "an arbitrarily chosen ID for each platform",
+  "display_title": "a short title for the platform (e.g. Wikipedia.org)",
+  "url": "URL for the platform",
+  "size": "sample size for the dataset representing this platform",
+  "start_date": "datetime string representing the date of the earliest comment in this dataset",
+  "end_date": "datetime string representing the date of the latest comment for this dataset",
+  "description": "a description of the dataset"
+}

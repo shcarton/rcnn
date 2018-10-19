@@ -1,0 +1,9 @@
+{
+  "dimension_id": "an arbitrarily-chosen dimension ID",
+  "name": "name of the dimension",
+  "description": "description",
+  "source_url": "URL (if available) for the dataset",
+  "platform_id": "ID of the platform on which the dimension is defined",
+  "irr": "inter-rater reliability (when available)",
+  "size": "number of samples"
+}

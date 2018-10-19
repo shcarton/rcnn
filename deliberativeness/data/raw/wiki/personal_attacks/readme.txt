@@ -1,0 +1,1 @@
+Download Jigsaw personal attack data files to this directory from https://figshare.com/articles/Wikipedia_Talk_Labels_Personal_Attacks/4054689
